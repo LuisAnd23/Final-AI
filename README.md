@@ -35,8 +35,9 @@ pip install -r requirements.txt
 └── Imagenes/
     ├── ISIC_0024306.jpg
     ├── ...
+```
 
-## 🚀 Cómo ejecutar los modelos en Google Colab
+🚀 Cómo ejecutar los modelos en Google Colab
 
 Sigue estos pasos para ejecutar cualquiera de los modelos desde Google Colab:
 
