@@ -64,7 +64,7 @@ modelo_2_multimodal_efficientnetB0.py
 modelo_3_xception_shufflenet.py
 
 modelo_4_densenet201.py
-
+```
 4. Ejecuta todas las celdas del script
 Asegúrate de que no hay errores en la carga de imágenes ni en la lectura del CSV.
 
