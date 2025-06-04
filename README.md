@@ -1,16 +1,6 @@
 # 🧬 Clasificación de Cáncer de Piel con Redes Neuronales Convolucionales
 
 Este repositorio contiene la implementación de **cuatro modelos de deep learning** para la clasificación automática de lesiones cutáneas utilizando la base de datos **[HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)**. Cada modelo emplea una arquitectura distinta, con variantes unimodales y multimodales.
-## 📂 Estructura del repositorio
-/HAM10000_Models/
-│
-├── modelo_1_efficientnetB4.py
-├── modelo_2_multimodal_efficientnetB0.py
-├── modelo_3_xception_shufflenet.py
-├── modelo_4_densenet201.py
-├── README.md
-└── requirements.txt (opcional)
-
 ---
 
 ## 🧪 Modelos incluidos
